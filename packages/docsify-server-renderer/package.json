@@ -1,6 +1,10 @@
 {
   "name": "docsify-server-renderer",
+<<<<<<< HEAD
   "version": "4.9.0",
+=======
+  "version": "4.8.6",
+>>>>>>> [build] 4.8.6
   "description": "docsify server renderer",
   "author": {
     "name": "qingwei-li",
